@@ -2705,7 +2705,7 @@
 		}
 
 	#header {
-		background: rgba(0, 0, 0, 0.75);
+		background: green;
 		color: black;
 		cursor: default;
 		height: 3.25em;
@@ -2722,6 +2722,7 @@
 		#header .inner {
 			margin: 0 auto;
 			position: relative;
+			color: green
 		}
 
 		#header .logo {
