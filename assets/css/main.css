@@ -2705,7 +2705,7 @@
 		}
 
 	#header {
-		color: #fff;
+		color: #000;
 		cursor: default;
 		height: 3.25em;
 		left: 0;
@@ -2724,7 +2724,7 @@
 		}
 
 		#header .logo {
-			color: #ffffff;
+			color: #000000;
 			display: inline-block;
 			font-weight: 400;
 			height: inherit;
@@ -2738,7 +2738,7 @@
 		}
 
 			#header .logo strong {
-				color: #ffffff;
+				color: #000000;
 				font-weight: 600;
 			}
 
@@ -2755,7 +2755,7 @@
 		}
 
 			#header a:hover {
-				color: #ffffff;
+				color: #000000;
 			}
 
 			#header a:last-child {
@@ -3125,18 +3125,18 @@
 
 		#footer label {
 			text-align: left;
-			color: #F5DEB3;
+			color: #000000;
 		}
 
 		#footer .copyright {
-			color: rgba(255, 255, 255, 0.5);
+			color: #F5DEB3;
 			font-size: 0.8em;
 			margin: 0 0 2em 0;
 			padding: 0;
 		}
 
 			#footer .copyright a {
-				color: rgba(255, 255, 255, 0.5);
+				color: #F5DEB3;
 				text-decoration: none;
 			}
 
