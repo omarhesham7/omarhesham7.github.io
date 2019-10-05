@@ -1849,7 +1849,7 @@
 		}
 
 	header p {
-		color: #bbb;
+		color: black;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -2705,7 +2705,7 @@
 		}
 
 	#header {
-		color: #000;
+		color: black;
 		cursor: default;
 		height: 3.25em;
 		left: 0;
@@ -2724,7 +2724,7 @@
 		}
 
 		#header .logo {
-			color: #000000;
+			color: black;
 			display: inline-block;
 			font-weight: 400;
 			height: inherit;
@@ -2738,7 +2738,7 @@
 		}
 
 			#header .logo strong {
-				color: #000000;
+				color: black;
 				font-weight: 600;
 			}
 
@@ -2755,7 +2755,7 @@
 		}
 
 			#header a:hover {
-				color: #000000;
+				color: black;
 			}
 
 			#header a:last-child {
