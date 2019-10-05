@@ -2710,7 +2710,8 @@
 		height: 3.25em;
 		left: 0;
 		line-height: 3.25em;
-		position: absolute;
+		/* position: absolute; */
+		position: fixed;
 		text-align: right;
 		top: 2em;
 		width: 100%;
@@ -2917,13 +2918,14 @@
 
 	#banner {
 		padding: 8em 0 9em 0;
-		background-image: url(../../images/banner.jpg);
+		background-image: url(../../images/myBanner.jpg);
 		background-size: cover;
 		background-position: bottom;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
 		text-align: center;
 		position: relative;
+		overflow: hidden;
 	}
 
 		#banner:before {
